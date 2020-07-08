@@ -8,7 +8,7 @@
   
 
 <p align="center">
-  <img src="srcimg/logo.jpg" width="800px"/>
+  <img src="src/img/logo.jpg" width="800px"/>
 </p>
 
 <p align="justify">
@@ -57,5 +57,6 @@ Please read [CONTRIBUTING](https://github.com/TribeAnalysis/Tribe/blob/master/CO
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-- **[MIT license](https://github.com/Data-Tongji/datatongji/blob/master/LICENCE)**
-- Copyright 2019 © <a href="https://github.com/Data-Tongji" target="_blank">Data Tongjì</a>.
+- **[MIT license](- **[MIT license]https://github.com/TribeAnalysis/Tribe/blob/master/LICENSE)**
+)**
+- Copyright 2019 © <a href="https://github.com/TribeAnalysis/Tribe" target="_blank">Tribe Analysis</a>.
