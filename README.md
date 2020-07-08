@@ -51,8 +51,6 @@ yarn start
 Please read [CONTRIBUTING](https://github.com/TribeAnalysis/Tribe/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](**[MIT license]https://github.com/TribeAnalysis/Tribe/blob/master/LICENSE)**
-
+- [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+- **[MIT license](https://github.com/TribeAnalysis/Tribe/master/LICENCE)**
 - Copyright 2019 © <a href="https://github.com/TribeAnalysis/Tribe" target="_blank">Tribe Analysis</a>.
