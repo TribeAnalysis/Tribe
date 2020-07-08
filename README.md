@@ -19,8 +19,8 @@ This project was developed in order to optimize some statistic analyzes (Descrip
   - HTML;
   - CSS
   - JS
-  -BOOTSTRAP
-  -CHARTJS
+  - BOOTSTRAP
+  - CHARTJS
 
 
 ## Installation
@@ -42,9 +42,9 @@ yarn start
 
 ## Authors
 
- ## [Gabriel Lopes ](https://github.com/IAMGabrielLopes) – gabrielaz.2206@gmail.com 
-## [Anderson Thiago](https://github.com/AndersonTiago) – andersonbonamim@gmail.com
-## [Guilherme Henrique](https://github.com/) – guilhermehap121@gmail.com
+ # [Gabriel Lopes ](https://github.com/IAMGabrielLopes) – gabrielaz.2206@gmail.com 
+# [Anderson Thiago](https://github.com/AndersonTiago) – andersonbonamim@gmail.com
+# [Guilherme Henrique](https://github.com/) – guilhermehap121@gmail.com
 
 ## Contributing
 
