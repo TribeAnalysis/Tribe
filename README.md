@@ -3,6 +3,9 @@
   <img src="img/logo.jpg" width="300px"/>
 </p>
 
+# Software Link 
+<a href ="https://tribeanalysis.github.io/Tribe/">Tribe</a>
+
 # Tribe Analysis
 > <p align="justify">Tribe Analysis is a website made for educational purposes to portray specific statistic analysis, based on HTML,CSS and JS. At this repo, you will find the full application.</p>
   
