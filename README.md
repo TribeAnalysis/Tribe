@@ -44,7 +44,7 @@ yarn start
 
  # [Gabriel Lopes ](https://github.com/IAMGabrielLopes) – gabrielaz.2206@gmail.com 
 # [Anderson Thiago](https://github.com/AndersonTiago) – andersonbonamim@gmail.com
-# [Guilherme Henrique](https://github.com/) – guilhermehap121@gmail.com
+# [Lucas Fernando](https://github.com/) – lucasfmcintra12@gmail.com
 
 ## Contributing
 
